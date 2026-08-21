@@ -1,0 +1,6 @@
+{
+  "name": "ClaimPilot",
+  "description": "Turn your proof into a clear claim. Prepare professional demand letters and organize evidence for unpaid invoices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

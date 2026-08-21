@@ -1,0 +1,57 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// ClaimPilot Trustworthy Palette
+val Blue900 = Color(0xFF0F172A)
+val Blue800 = Color(0xFF1E3A8A)
+val Blue700 = Color(0xFF1D4ED8)
+val Blue600 = Color(0xFF2563EB)
+val Blue500 = Color(0xFF3B82F6)
+val Blue200 = Color(0xFFBFDBFE)
+val Blue100 = Color(0xFFDBEAFE)
+val Blue50 = Color(0xFFEFF6FF)
+
+// Calm Teal (Progress & Organization)
+val Teal800 = Color(0xFF115E59)
+val Teal700 = Color(0xFF0F766E)
+val Teal600 = Color(0xFF0D9488)
+val Teal500 = Color(0xFF14B8A6)
+val Teal100 = Color(0xFFCCFBF1)
+val Teal50 = Color(0xFFF0FDFA)
+
+// Soft Green (Verified / Completed)
+val Green700 = Color(0xFF15803D)
+val Green600 = Color(0xFF16A34A)
+val Green500 = Color(0xFF22C55E)
+val Green100 = Color(0xFFDCFCE7)
+val Green50 = Color(0xFFF0FDF4)
+
+// Warm Amber (Needs Review / Attention)
+val Amber800 = Color(0xFF92400E)
+val Amber700 = Color(0xFFB45309)
+val Amber600 = Color(0xFFD97706)
+val Amber500 = Color(0xFFF59E0B)
+val Amber300 = Color(0xFFFCD34D)
+val Amber200 = Color(0xFFFDE68A)
+val Amber100 = Color(0xFFFEF3C7)
+val Amber50 = Color(0xFFFFFBEB)
+
+// Muted Red (Actual Error / Caution)
+val Red700 = Color(0xFFB91C1C)
+val Red600 = Color(0xFFDC2626)
+val Red100 = Color(0xFFFEE2E2)
+val Red50 = Color(0xFFFFF1F2)
+
+// Warm Neutrals (Slate & Paper)
+val Neutral900 = Color(0xFF0F172A)
+val Neutral800 = Color(0xFF1E293B)
+val Neutral700 = Color(0xFF334155)
+val Neutral600 = Color(0xFF475569)
+val Neutral500 = Color(0xFF64748B)
+val Neutral400 = Color(0xFF94A3B8)
+val Neutral300 = Color(0xFFCBD5E1)
+val Neutral200 = Color(0xFFE2E8F0)
+val Neutral100 = Color(0xFFF1F5F9)
+val Neutral50 = Color(0xFFF8FAFC)
+val PureWhite = Color(0xFFFFFFFF)
